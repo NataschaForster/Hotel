@@ -8,7 +8,7 @@ class Navigation extends Component {
     return (
       <Navbar bg="light" expand="lg">
         <Navbar.Brand className="ml-5" href="#home">
-          React-Bootstrap
+          Home
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
